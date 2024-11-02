@@ -2,4 +2,4 @@
 
 ## Demo Video
 
-[Watch the demo video](example.mov)
+![Watch the demo video](example.gif)
